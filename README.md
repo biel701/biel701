@@ -1,6 +1,6 @@
 ### 🛠️ Tecnologias e Ferramentas
-![HTML5](shields.io)
-![CSS3](shields.io)
-![JavaScript](shields.io)
+### HTML5
+### CSS3
+### JavaScrip
 🔗 [Acesse meu Portfólio / Links Úteis](https://biel701.github.io/Meu-portifolio/)
 
