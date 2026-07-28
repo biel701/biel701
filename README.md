@@ -23,8 +23,13 @@
 ### 🛡️ [Script] Firewall de Rede Simples com Python
 Desenvolvi um script em Python que funciona como um filtro de pacotes de rede. O programa analisa o IP de origem de cada conexão e bloqueia automaticamente o tráfego caso o endereço esteja em uma lista negra.
 
-- **Tecnologias:** ![Python](https://shields.io) e Biblioteca Scapy.
+- **Tecnologias:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) e Biblioteca Scapy.
 - **Nota:** O código está guardado aqui mesmo neste repositório!
+
+### [Site]
+-### Tela de login
+-### Site  de estudos
+-### Apresentação de satrtup
 
 ## 🌐 Contato e Links
 
