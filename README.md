@@ -27,9 +27,9 @@ Desenvolvi um script em Python que funciona como um filtro de pacotes de rede. O
 - **Nota:** O código está guardado aqui mesmo neste repositório!
 
 ### [Site]
--### Tela de login
--### Site  de estudos
--### Apresentação de satrtup
+- **Tela de login**
+- **Site  de estudos**
+- **Apresentação de satrtup**
 
 ## 🌐 Contato e Links
 
